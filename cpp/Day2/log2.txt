@@ -1,0 +1,16 @@
+Date: July 20th, 2017, time: 3 pm, C++ book page 18-29
+
+#include "....relative parth to self-Programmed header file \filename"
+
+"cout" means console-out,
+"<<" is needed for every new entity
+"<<" i s also used as insertion operator, to insert sth in a file, it would be:
+std::fstream instead of std::cout
+fstream is use to save files to disk
+
+"std::cin >> Variable " as c-in, counsole input, cin is followed by extraction
+operator >> then followed by the variable to store the input data. it is
+possible to store 2 or more variables 
+
+std::cin >> Variable1 >> Variable2
+

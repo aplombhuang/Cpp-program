@@ -1,0 +1,16 @@
+Date: 07/14/2017
+cpp book content page 6-15  
+learned to compile c++ file, display content in a new way
+interpreted language vs compiled:
+    interpreted, no compilation step, interpreter reads code (script txt file)
+    more like a byte code and perform action. example: windows script.
+ 
+ compiler generate object file then the object file run by machine. 
+
+ linker connects the code that depend on library or other file and integrate
+ these link to the executable
+
+ cycle:
+ code, compile, link, execute, debug
+ in many case comple and link is one step
+ 
